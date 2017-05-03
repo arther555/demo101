@@ -1,0 +1,20 @@
+    1  git status
+    2  git init
+    3  git status
+    4  rm -rf .git
+    5  history
+    6  history .. note.tex
+    7  history >> note.tex
+    8  history >> note.txt
+    1  git status
+    2  git init
+    3  git status
+    4  rm -rf .git
+    5  history
+    6  history .. note.tex
+    7  history >> note.tex
+    8  history >> note.txt
+    9  git status
+   10  ls
+   11  git status
+   12  history >> note.txt
